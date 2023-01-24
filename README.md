@@ -1,2 +1,3 @@
 # Hitchhiking_msms
-Generate msms of Selective sweep &amp; convert the output to SweepFinder2 input
+Generate  Selective sweep with spatial structure for msms simulation; 
+Convert the output to SweepFinder2 input
